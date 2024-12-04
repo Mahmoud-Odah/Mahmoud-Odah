@@ -46,10 +46,10 @@ With a deep love for crafting clean, functional code, I excel in **JavaScript**,
 
 ## 🔥 Achievements
 
-- 🌍 Built and deployed scalable microservices-based applications using **Docker** and **PostgreSQL**.
-- 🏆 Published multiple production-ready applications using **React Native** and **Next.js**.
-- 🚀 Developed a globally used Islamic app, enhancing the user experience with **Strapi** as a backend CMS.
-- ✨ Continuously improving my skills in **Vue.js**, **Next.js**, and backend technologies.
+- 🏆 Developed responsive web applications for clients using React, Next.js, and Vue, enhancing code organization and improving the maintainability of a large-scale project.
+- 🚀 Created scalable RESTful APIs using Node.js Express, Nest.JS, and ASP.NET, integrating NoSQL and SQL databases such as MongoDB, PostgreSQL, and MySQL, leading to more efficient data retrieval.
+- 🌍 Built and deployed scalable microservices-based applications using **Docker** and **Message Queuing (RabbitMQ)**.
+- ✨ Continuously improving my skills in **Front-End**, and **Back-End** technologies.
 
 ---
 
