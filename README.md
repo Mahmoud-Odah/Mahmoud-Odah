@@ -33,7 +33,7 @@ With a deep love for crafting clean, functional code, I excel in **JavaScript**,
   <img src="https://img.shields.io/badge/Code-Next.js-black?style=flat&logo=next.js&color=000000" alt="Next.js" />
   <img src="https://img.shields.io/badge/Code-Vue.js-green?style=flat&logo=vue.js&color=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Code-Node.js-green?style=flat&logo=node.js&color=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Code-Nest.js-green?style=flat&logo=nest.js&color=339933" alt="Nest.js" />
+  <img src="https://img.shields.io/badge/Code-Nest.js-green?style=flat&logo=nestjs&color=ea2845" alt="Nest.js" />
   <img src="https://img.shields.io/badge/Code-MongoDB-green?style=flat&logo=mongodb&color=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Code-PostgreSQL-blue?style=flat&logo=postgresql&color=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Code-Strapi-purple?style=flat&logo=strapi&color=8A2BE2" alt="Strapi" />
