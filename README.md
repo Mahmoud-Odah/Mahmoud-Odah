@@ -56,10 +56,10 @@ With a deep love for crafting clean, functional code, I excel in **JavaScript**,
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmad-alghalban-454382219" target="_blank">
+  <a href="https://www.linkedin.com/in/mahmoud-odeh-a9399b20a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ahmadalghalban05@gmail.com" target="_blank">
+  <a href="mailto:mahmoud.odah08@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
