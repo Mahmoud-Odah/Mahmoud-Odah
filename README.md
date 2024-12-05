@@ -14,7 +14,7 @@ With a deep love for crafting clean, functional code, I excel in **JavaScript**,
   <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Odah&show_icons=true&theme=radical&count_private=true" alt="Mahmoud's GitHub Stats" style="margin: 10px;" />
 
   <!-- GitHub Streak -->
- <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Odah&theme=radical" alt="Mahmoud's GitHub Streak" style="margin: 10px;" />  -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Odah&theme=radical" alt="Mahmoud's GitHub Streak" style="margin: 10px;" /> 
 
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Odah&layout=compact&theme=radical&langs_count=8&hide=ruby,dart,python,objective-c" alt="Mahmoud's Top Languages" style="margin: 10px;" />
