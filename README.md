@@ -21,8 +21,6 @@ With a deep love for crafting clean, functional code, I excel in **JavaScript**,
 
 </div>
 
----
-
 ## 📈 Codewars Stats
 
 <div>
