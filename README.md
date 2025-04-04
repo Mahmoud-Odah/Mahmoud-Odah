@@ -19,6 +19,9 @@ With a deep love for crafting clean, functional code, I excel in **JavaScript**,
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Odah&layout=compact&theme=radical&langs_count=8&hide=ruby,dart,python,objective-c" alt="Mahmoud's Top Languages" style="margin: 10px;" />
 
+  <!-- codewars badge -->
+  <img src="https://www.codewars.com/users/Mahmoud-Odah/badges/large" />
+
 </div>
 
 ---
