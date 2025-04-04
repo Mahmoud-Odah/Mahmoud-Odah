@@ -26,6 +26,15 @@ With a deep love for crafting clean, functional code, I excel in **JavaScript**,
 
 ---
 
+## 📈 Codewars Stats
+
+<div align="center">
+  <!-- codewars badge -->
+  <img src="https://www.codewars.com/users/Mahmoud-Odah/badges/large" />
+</div>
+
+---
+
 ## 🚀 Technologies I Work With
 
 <div align="center">
